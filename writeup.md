@@ -38,6 +38,6 @@ Another shortcoming could be that if shadow will lie on the landmark line my pip
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to is to use 
+A possible improvement would be to is to use dynamic mask of interest.
 
-Another potential improvement could be to ...
+Another potential improvement could be to use perspective transform to find line curvature.
